@@ -31,7 +31,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'pavoPortal.png',
+    img: 'pavoPortal.jpg',
     title: 'Portal Web App',
     info: 'This tool makes it easier to manage R&D, manufacturing, project management, sales, finance and some more procedures in a company.',
     info2:
@@ -41,7 +41,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'energyAnalyser.png',
+    img: 'energyAnalyser.jpg',
     title: 'Energy Analyser Mobile App',
     info: 'It was my very first time MVC and cross-compile mobile application development experience. Project was created for monitoring the energy consumption of high energy consuming equipment in our production units',
     info2:

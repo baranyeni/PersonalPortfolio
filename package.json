@@ -50,6 +50,9 @@
     "lint-staged": "^10.2.11",
     "prettier": "^2.0.5"
   },
+  "resolutions": {
+    "sharp": "0.24.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/baranyeni/PersonalPortfolio"
